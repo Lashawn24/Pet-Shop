@@ -11285,4 +11285,15 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
-}
+  .center {
+    border: 5px solid #FFFF00;
+    text-align: center;
+    }
+    #footer {
+      position:absolute;
+      bottom:0;
+      width:100%;
+      height:60px;   /* Height of the footer */
+      background:#6cf;
+   }
+  
